@@ -1,4 +1,5 @@
-# Fase 1 Module 2 Museum Online
-## Javascript
+# F1M2JS - Museum Online
 
-(live view)[http://33390.hosts1.ma-cloud.nl/f1m2js/]
+Sil Wever
+
+[Live versie van de opdrachten](http://33390.hosts1.ma-cloud.nl/f1m2js)
